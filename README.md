@@ -12,6 +12,7 @@ React: Used to create the interactive user interface and manage the app’s stat
 
 https://alexliashenko19.github.io/Todo-App/
 
+Run npm install to install the dependencies
 Run npm start to run a development server at http://localhost:3000 (If you need to stop the server press ctrl + c in the terminal window)
 Open one more terminal and run tests with npm test to ensure your solutions are correct
 Run npm run lint to check the code style and fix all the errors
